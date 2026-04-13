@@ -84,7 +84,16 @@ User Traffic → Azure Virtual Machine → Azure Monitor Metrics → Alert Rule 
 
 ## Screenshots
 
-
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/Alert%20reccomendation%20.png)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/alert%20rules.jpg)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/collapse(network%20%26%20Disk%20os%20perfomarnce).jpg)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/cpu%20percentage%20monitor.jpg)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/guest%20os%20performance%20metrix)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/monitoring%20%26%20Alerts%20issues%20.jpg)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/virtual%20machine%20running%20state)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/vm%20alerts)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/vm%20monitoring%20metrix.jpg)
+![Alt text](https://github.com/ayinakotasivaparvathi/Azure-cloud-monitoring-Alerting/blob/main/project%20images/vm%20performance%20%26%20Utilizations.jpg)
 
 ## Key Skills Demonstrated
 
