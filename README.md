@@ -110,11 +110,4 @@ User Traffic → Azure Virtual Machine → Azure Monitor Metrics → Alert Rule 
 
 Successfully implemented a real-time cloud monitoring and alerting system capable of detecting infrastructure performance issues and notifying stakeholders through automated alerts.
 
----
 
-## Future Enhancements
-
-* Add Memory and Disk Usage Alerts
-* Implement Auto-Healing using Azure Automation
-* Integrate Log Analytics for Advanced Monitoring
-* Provision Infrastructure using Terraform
