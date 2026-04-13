@@ -85,15 +85,6 @@ User Traffic → Azure Virtual Machine → Azure Monitor Metrics → Alert Rule 
 ## Screenshots
 
 
-* VM Overview
-* Nginx Running
-* Alert Rule Configuration
-* Action Group Setup
-* Alert Triggered
-* Metrics Graph
-* Dashboard
-
----
 
 ## Key Skills Demonstrated
 
